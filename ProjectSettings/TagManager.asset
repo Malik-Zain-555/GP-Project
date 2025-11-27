@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Background
+  - Plants
+  - Collectable Items
+  - Obstacles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Background
+  - Plants
+  - Collectable Items
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1704108955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1786124159
+    locked: 0
+  - name: Player
+    uniqueID: 99124849
+    locked: 0
+  - name: Collectable Items
+    uniqueID: 1545679923
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2933284355
+    locked: 0
+  - name: UI
+    uniqueID: 1297683775
+    locked: 0
+  m_RenderingLayers:
+  - Default
