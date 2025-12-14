@@ -9,6 +9,8 @@ TagManager:
   - Plants
   - Collectable Items
   - Obstacles
+  - HealthBar
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -21,7 +23,7 @@ TagManager:
   - Plants
   - Collectable Items
   - Obstacles
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -63,6 +65,9 @@ TagManager:
     locked: 0
   - name: UI
     uniqueID: 1297683775
+    locked: 0
+  - name: Enemy
+    uniqueID: 1829747463
     locked: 0
   m_RenderingLayers:
   - Default
